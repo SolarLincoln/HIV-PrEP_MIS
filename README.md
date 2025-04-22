@@ -9,4 +9,4 @@ A Management Information System for HIV and PrEP metrics, built as a group proje
 ###### This was a group project completed in a "Management Information Systems" class in Spring 2022 at Rutgers Business School New Brunswick
 
 New addition: Linear Regression folder
-* Trained a Linear Regression Model to predict County PrEP Users for 2020-2031 (11 years into the future)
+* Developed a predictive linear regression model using Scikit-Learn to estimate county-level PrEP usage trends in New Jersey for 2020-2031 (11 years into the future) based on historical public health and socioeconomic data, achieving interpretable results and visualized forecasts.
